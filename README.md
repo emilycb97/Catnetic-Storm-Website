@@ -2,6 +2,8 @@
 
 Dynamiczna platforma webowa dedykowana grze typu roguelike "Catnetic Storm". Witryna łączy funkcjonalność informacyjną z rozbudowanym systemem społecznościowym, umożliwiając graczom interakcję, śledzenie postępów prac (devlog) oraz dzielenie się twórczością w galerii. Projekt został zbudowany w architekturze klient-serwer z wykorzystaniem bazy danych do zarządzania treścią w czasie rzeczywistym.
 
+Link do strony: https://catnetic-storm.page.gd/ 
+
 Projekt został zrealizowany w zespole trzyosobowym:
 * **Emilia Szczerba** – [@emilycb97](https://github.com/emilycb97)
 * **Klaudia Adamek** - [@klaudiaadamek](https://github.com/klaudiaadamek)
@@ -27,6 +29,8 @@ Projekt został zrealizowany w zespole trzyosobowym:
 # Catnetic Storm - Official Website 
 
 A dynamic web platform dedicated to the "Catnetic Storm" roguelike game. The website integrates informative content with an extensive social system, allowing players to interact, follow development progress via devlogs, and share their creations in a media gallery. The project was built using a client-server architecture with a database for real-time content management.
+
+Link to the website: https://catnetic-storm.page.gd/
 
 Project developed in a three-person team:
 * **Emilia Szczerba** – [@emilycb97](https://github.com/emilycb97)
