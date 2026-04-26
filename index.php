@@ -55,6 +55,22 @@
                       <strong>Muzyka i Efekty Dźwiękowe</strong><br>
                       <a href="https://kenney.nl/" target="_blank" rel="noopener noreferrer" class="credits-link">kenney.nl</a>,  <a href="https://freesound.org/" target="_blank" rel="noopener noreferrer" class="credits-link">freesound.org</a>
                   </div>
+                  <div class="credits-divider">------------------------------------------------------</div>
+              </div>
+
+              <div class="credits-group">
+                  <div class="credits-heading"><strong>SPECJALNE PODZIĘKOWANIA</strong></div>
+                  <div class="credits-names">
+                      <strong>Transfer wiedzy i doradztwo</strong><br>
+                      Aneta Wiśniewska<br>
+                      Rafał Szrajber
+                  </div>
+                  <br>
+                  <div class="credits-names">
+                      <strong>Główni Dyrektorzy ds. Inspiracji (nasze koty)</strong><br>
+                      Kuro, Furby, Bazyl, Maniana<br>
+                      Bodzio, Kirri
+                  </div>
               </div>
 
               <div class="credits-group">
