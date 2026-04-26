@@ -9,7 +9,7 @@
     session_start();
   }
 
-  $BASE = '/htdocs/';
+  $BASE = './';
 ?>
 <header>
   <nav class="menu" aria-label="Menu główne">

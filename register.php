@@ -127,6 +127,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   </main>
 
   <?php include __DIR__ . '/includes/footer.php'; ?>
-  <script defer src="/htdocs/js/auth.js"></script>
+  <script defer src="./js/auth.js"></script>
 </body>
 </html>
